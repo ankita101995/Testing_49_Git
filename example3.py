@@ -1,0 +1,5 @@
+# to do multiplication
+a=5
+b=9
+c=a*b
+print("this is multiplication",c)
